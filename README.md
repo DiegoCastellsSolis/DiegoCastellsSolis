@@ -25,7 +25,7 @@
         <ul>    
             <li>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVMD0ohVuIf1cUSsvgVuYi3fnrek1--ldzKJDhqu9ig&s" alt="AWS" width="40" height="40">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40">
             </li>
         </ul>
     <p>Databases</p>   
