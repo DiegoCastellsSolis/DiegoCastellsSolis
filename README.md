@@ -4,7 +4,7 @@
 <body>
 
   <h1>Hi! I am Diego Castells, Data Engineer</h1>
-  <img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/My project-1.png" alt="Imagen de banner">
+  <img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/DiegoCastells.png" alt="Imagen de banner">
 
   <p>Soy un Ingeniero de Datos especializado en el manejo y análisis de información. Mi objetivo es extraer conocimiento significativo a partir de datos complejos para facilitar la toma de decisiones informadas.</p>
 
