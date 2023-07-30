@@ -14,6 +14,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">  
                 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40">  
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Shell" width="40" height="40">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">  
             </li>
         </ul>
