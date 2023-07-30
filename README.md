@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>¡Hola! Soy Diego Castells, Ingeniero de Datos</title>
-</head>
-
+  
 <body>
 
   <h1>Hi! I am Diego Castells, Data Engineer</h1>
