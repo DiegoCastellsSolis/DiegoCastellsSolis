@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>¡Hola! Soy Diego Castells, Ingeniero de Datos</title>
 </head>
-
 <body>
-
   <h1>Hi! I am Diego Castells, Data Engineer</h1>
   <img src="https://github.com/Caarito/Imagenes/blob/main/banner2.jpg" alt="Imagen de banner">
-
   <p>Soy un Ingeniero de Datos especializado en el manejo y análisis de información. Mi objetivo es extraer conocimiento significativo a partir de datos complejos para facilitar la toma de decisiones informadas.</p>
-
   <h2>Skills:</h2>
     <p>Lenguajes</p>     
         <ul>  
@@ -39,18 +34,15 @@
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB7CAMAAABjGQ9NAAAArlBMVEX///9Dh/tFhO9EhvdAe95EhfVFhfJGg+xDh/xEhvhEhvlEhfRBetpGg+s/fONFhfNAfOHc5v44fOqlvvOYs+3S3fY1d+L3+f55nukmcOA0gPvp7/ve5vnm7f44gPdai+XM2vtRheO5zfnz8eyJrvxWkPp+p/sme/2Vtvysxf5yoPzG1vxhlvyyyPobbeKbufmLq+zP1+ltl+e0xOb++u5/oOLe4uueteTp6uzCz+uZwKP4AAAGsklEQVRoge2a6XLiOhCFgWAWkxgRQMILMjgQkkAchrmZZN7/xa4s2eBFslosdatu5dT8CMbS59Pq1mKm0fjRj370X2s+Mtf8GuDRam33qKl69no1upDsP3te7zx53rN/kWl6LpnT6QXWg80F5ESb4Fw0uZCciJzJfrkk4ELey3no4HI0g58X9eersJ/PQS+85jXkLc5gr3tXYffW5ujX69hmxl9N0cS7jm1m3DOtsxW9ErrZpCsz9MUzWl4bs0Xt7VoRT9R7M0FvN1dEN5ubLRxNrlRfmXpreLpdrb4ywets3ryubWa8CU23K9ZXJmidjTz7+vJgW5h17wZs2LQe3cI2Mx4B2M2boG27qUd/3MY2M/6hQ/te/1bydNv1Z3ozNtVsnxa3s82ML2rZO/uGbHtXh36/pW1m/F2NJnf9u6pk15hs6jFRakMbJF+o17MXqmpVFkPuXl6jbTR+2dkU3myvQvsbWA+2Rz+muXaLD+pV3Uu1UdXZG6iDvrerbkO2a08Z6cJjK7ZPC5Bt2pFPzNEQFPnNQtaY7CBP7q1UUfNXHqB9fydLt3fP0uouv/khfjAN/FxXr4AeLFmd+XeAhvTY0B8fcBy7cewcxr4R/K4auBUFoDPXwSzG2BHCOJ4FBvDq9mmkzxTruAru4wyc4uOsbj88S9tP5Q3QTl9fNK2P+dJ1ysLLdCP6pvdQntYjfZM+Fd0HCFfQDI5E3OeP2o7uaLFK+4BxEhH3lzJ04lzk0BiQN/08+hXQwBbVFMrRDB7y7wnuaCuG5irVh6SnsD2ujnUmd8zvmOCWtrPc9glSXxtum8R5pxgXghCntyAt/FRnU4Dt/i41lUPP9vt9mH+WSToqevjxmPJmDbSiIqCFGI9KD+M4Yliwg1qa7qy0XrdUjx7YfMGe5kPuTsvsWNzELqGuxg/dgm0PKCmHXMIWQSf8Uqu+V2F8PgCw05Kcadgzfpe4VB92a5jMVAtIyC2eakRklsuEZWwn5NFZig/d2h7pgk+nEDYPERG9RtPp9CBlL0lu+qlPOD6xRnSoV4E9F9FXsg/pNQZX98jZWwO2iHlQZeN8zE81XwPniT7qA9iDTuPkqMwO/bk/QskTHPhdyAHA+3x2WddE5mSc97qXs5OQtBP2PpfnWcIpzIh3IK+QoPf58rx1a9kunzCCQgoo4OlS5q8BbLHeExchVGIjzvaRg5DLhzvCKC85fJ2uZO+0o5UlVp4ZI+BI/FFgvzOgMzveU4APq92dNry7gR7u8TtHzLiD/Qo7SLy6YtsUI6SDD05btoWnZ6ebrEPiD5ES28dJPESWb3GZXYV7uaPks6Vlp49KEgqbXj5z7EPAL+J0U+VU2GW4lX/z4scA4wsRI55u+B4d2exTgnOFl79uFY3QQwEeF44mH7aWPUxPce9uagxvCSH79IPjijFh066MjR5yPdnFN22kI0nGsvG0SYSz7pfhMv3Lwemee1Id7bLzYad0FI0AdZZGvTFFAsDXCxEClCZPII14ovYRTisHeECdDa1snCYxPoWWHccmJw9a+KD6pmsKMD6wMzgZh3Gyf3CwG4fjfAyjSnmX4HRaYTdW+jrrDOjptwd/MWZ75PGifJzWOLdkvyD4VgsgW/1zUzTK4G2VHjotS/rO5PURAqd7+QsXf+862fqA1XCq+MWoA2G3HtFY0naMGPAIr3GuCNqWguAtjCfFn5zmEyysIl8TdvxbwW6EQxiczWLOZzSd+8SfT6O94x6D7Mxr4U74z7eCPQKNeAJnDtIzKMb50UXt9LXP3pHa/vWkfJu7MoDLhdrcOTlI0Z9PKtssWYHoOniScGQmT/U/ajRLV6hxNZwlnAKNv56eathkByu0Wjhuy10vv+tsJ9P65WFXyP1b5zrRDFhnxnBnVhvxRL4LZpvB3T86NKtMcLoZwfFeXdpHEQO2ARx/622zlcAEDkZ/QdBsWjdgt+7b92VVr9y3Q22iCU0fu3C1JKSqsLa+Ms1M4F0AHM2g6EZgxO4iPRtQX5k+zOA6584Ejm40jNBaOPo2+S9sW/eBq8v/ZeKfut3cF+LLbrcWrZ/IiwpbZs5r0Ky+jNBs+2TGflCz2UbJjG1YZzXw9qcpuuEbsrsPioRz/piik+2TIVw+5tCJvCAS5jIcJhk7rN8nKbR9NGVLnOO/56AbjYOx8Yrz9uGMiCcKjI1X4PjXeejkPGkOL2S7e06ipZq4xmHPj7lrtIaUFXUfz852B/2+BM2mmMny0VQYI4RxOPkD3CepRYJobKivr6/fv76fag6dP/rRj/7n+hcusHKlNkPHjgAAAABJRU5ErkJggg==" alt="Google Cloud Storage" width="40" height="40"> 
             </li>
         </ul>     
-
     <p>Databases</p>   
-    <ul>    
-        <li>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"> 
-        </li>
-    </ul> 
-
+        <ul>    
+            <li>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"> 
+            </li>
+        </ul> 
   <p>¡Gracias por visitar mi perfil! Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme.</p>
-
 </body>
 
 </html>
