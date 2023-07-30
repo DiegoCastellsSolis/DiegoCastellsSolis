@@ -46,11 +46,13 @@
         </ul>
     <p>Databases</p>   
     <ul>    
+
         <li>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"> 
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-igkzb&psig=AOvVaw3x9cyOzEO35fntZrNGwT_3&ust=1690831784910000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCjkP2Ut4ADFQAAAAAdAAAAABAE" alt="SQL Server" width="40" height="40"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"> 
         </li>
+     
     </ul> 
  
     <p>Vizualization</p>
