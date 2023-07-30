@@ -39,54 +39,15 @@
                 <img src="data:image/png;base64,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" alt="Google Cloud Storage" width="40" height="40"> 
             </li>
         </ul>     
-    <p>Big Data</p>   
-        <ul>    
-            <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="40" height="40"> Apache Spark</li>
-            <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"> Hadoop</li>
-        </ul>
+
     <p>Databases</p>   
     <ul>    
-
         <li>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"> 
         </li>
-     
     </ul> 
- 
-    <p>Vizualization</p>
-    <ul>    
-        <li><img src="data:image/jpeg;base64,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" alt="Power BI" width="40" height="40"> Power BI</li>
-    </ul>
-        
-    <p>Repositoy Code</p>
-    <ul>
-        <li><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"> GitHub</li>
-    </ul>
-
-  <h2>Experiencia Laboral:</h2>
-  <ul>
-    <h3><a href="http://canid.io">Data Analyst at Canid</a></h3>      
-    <li>Análisis de Datos del Comportamiento del Cliente: Desarrollé un sistema de ETL para procesar datos de transacciones de clientes y utilizarlo en la generación de informes para mejorar la experiencia del cliente.</li>
-    <h3><a href="https://www.bigbox.com.ar/">Data Engineer at BigBox</a></h3> 
-    <li>Optimización del Proceso de Extracción de Datos: Implementé un flujo de trabajo utilizando Apache NiFi para acelerar la extracción de datos desde diversas fuentes, reduciendo significativamente el tiempo de procesamiento.</li>
-    <li>Visualización Interactiva de Datos: Creé un panel interactivo en Tableau que permitió a los equipos de negocio explorar datos de ventas y patrones de compra para identificar oportunidades de crecimiento.</li>
-  </ul>
-
-  <h2>Proyectos destacados:</h2>
-  <ul>
-    <li>Análisis de Datos del Comportamiento del Cliente: Desarrollé un sistema de ETL para procesar datos de transacciones de clientes y utilizarlo en la generación de informes para mejorar la experiencia del cliente.</li>
-    <li>Optimización del Proceso de Extracción de Datos: Implementé un flujo de trabajo utilizando Apache NiFi para acelerar la extracción de datos desde diversas fuentes, reduciendo significativamente el tiempo de procesamiento.</li>
-    <li>Visualización Interactiva de Datos: Creé un panel interactivo en Tableau que permitió a los equipos de negocio explorar datos de ventas y patrones de compra para identificar oportunidades de crecimiento.</li>
-  </ul>
-
-  <h2>Contacto:</h2>
-  <ul>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/diego-castells-9a2783201/">https://www.linkedin.com/in/diego-castells-9a2783201/</a></li>
-    <li><strong>Email:</strong> <a href="diegoosolis99@gmail.com">diegoosolis99@gmail.com</a></li> 
-    <li><strong>Phone:</strong> +54 2241505239</li>
-  </ul>
 
   <p>¡Gracias por visitar mi perfil! Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme.</p>
 
