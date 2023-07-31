@@ -54,8 +54,7 @@
         </ul>     
     <p>Big Data</p>   
         <ul>    
-            <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="40" height="40"> Apache Spark</li>
-            <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"> Hadoop</li>
+            <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/apache_beam_logo_icon_168624.svg" alt="Apache Spark" width="40" height="40"> Apache Beam</li> 
         </ul> 
 
   <h2>Experiencia Laboral:</h2>
