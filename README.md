@@ -35,7 +35,7 @@
     </ul>   
     <p>Vizualization</p>
     <ul>    
-        <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/powerbi" alt="Power BI" width="40" height="40"> Power BI</li>
+        <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/power.png" alt="Power BI" width="40" height="40"> Power BI</li>
     </ul>
     <p>Repositoy Code</p>
     <ul>
