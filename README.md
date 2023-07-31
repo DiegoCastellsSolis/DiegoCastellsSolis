@@ -62,7 +62,7 @@
   <ul>
     <h3><a href="http://canid.io">Data Analyst at Canid</a></h3>      
     <li> BALBA .</li>
-    <h3><a href="https://www.bigbox.com.ar/">Data Engineer at BigBox</a></h3> 
+    <h3><a href="https://www.bigbox.com.ar/">Data Engineer at CoreBI for BigBox</a></h3>   
     <li>BLAto.</li>
     <li>Visuanto.</li>
   </ul>
