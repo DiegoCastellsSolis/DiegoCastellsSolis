@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-     
-<body> 
+    
+<body>
  
   <h1>Hola! soy Diego Castells, Data Engineer</h1>
   <img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/DiegoCastells.png" alt="DiegoCastells">
@@ -37,11 +37,11 @@
     </ul>   
     <p>Vizualization</p>
     <ul>    
-        <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/power.png" alt="Power BI" width="40" height="40"> Power BI</li>
+        <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/power.png" alt="Power BI" width="40" height="40"></li>
     </ul>
     <p>Repositoy Code</p>
     <ul>
-        <li><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"> GitHub</li>
+        <li><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"></li>
     </ul>
     <p>GCP Services</p>   
         <ul>    
@@ -56,7 +56,7 @@
         </ul>     
     <p>Big Data</p>   
         <ul>    
-            <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/apache_beam_logo_icon_168624.svg" alt="Apache Spark" width="40" height="40"> Apache Beam</li> 
+            <li><img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/apache_beam_logo_icon_168624.svg" alt="Apache Spark" width="40" height="40"></li> 
         </ul> 
 
   <h2>Experiencia Laboral:</h2>
@@ -80,7 +80,7 @@
     <li>Web Scraping a Inmobiliaria: Capture datos de una inmobiliaria que no disponiblizaba su informacion atravez de API's para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
     <li>ETL mediante API Mercado Libre: Capture datos de una automoviles disponiblizados atravez de API de MELI para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
   </ul>
-  <h2>Aclaraciones sobre Proyectos y GitHub personal:</h2>
+  <h2>Aclaraciones Proyectos y GitHub:</h2>
   <ul>
     <li> 
         Al poseer experiencia temprana Full-Time en Data y en paralelo llevar mis estudios en Ingenieria mi portafolio  en data no se encutra actualizado o completo,y no he podido resolver y documentar a nivel de detalle satisfactorio para mi criterio 
