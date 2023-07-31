@@ -61,15 +61,17 @@
 
   <h2>Experiencia Laboral:</h2>
   <ul>
+    <h3><a href="https://www.bigbox.com.ar/">Data Engineer at CoreBI for BigBox</a></h3>   
+    <li>Actualmente me encuentro Realizando tareas de ETL y automatización de tareas en entorno Cloud en GCP utilizando Cloud Functions, DataFusion,Cloud Scheduler, PostgreSQL,BigQuery y          Python 
+   </li>
+    <h3><a href="https://github.com/DiegoCastellsSolis">ETL Developer Freelancer</a></h3>   
+    <li>
+       Transforme datos historicos de una bioquimica almacenados en formato PDF a formatos estructurados, teniendo contacto con manejo de expresiones regulares,Python y SSIS.
+    </li>
     <h3><a href="http://canid.io">Data Analyst at Canid</a></h3>      
     <li> 
-        Contribui en el área de Analitycs & Reporting,adicionalmente utilize modelos de Machine Learning en datos escasos, teniendo contacto con tecnologías como Metabase,PostgreSQL y Python     
+        Contribui en el área de Analitycs & Reporting,adicionalmente utilize modelos de Machine Learning en datos escasos, teniendo contacto con tecnologías como Metabase,PostgreSQL y             Python     
     </li>
-    <h3><a href="https://www.bigbox.com.ar/">Data Engineer at CoreBI for BigBox</a></h3>   
-    <li>Actualmente me encuentro Realizando tareas de ETL y automatización de tareas en entorno Cloud en GCP utilizando Cloud Functions, DataFusion,Cloud Scheduler, PostgreSQL,BigQuery y PythonActualmente me encuentro Realizando tareas de ETL y automatización de tareas en entorno Cloud en GCP utilizando Cloud Functions, DataFusion,Cloud Scheduler, PostgreSQL,BigQuery y Python.
-    <h3><a href="https://github.com/DiegoCastellsSolis">ETL Developer Freelancer</a></h3>   
-    </li>
-    <li>Transforme datos historicos de una bioquimica almacenados en formato PDF a formatos estructurados, teniendo contacto con manejo de expresiones regulares,Python y SSIS.</li>
   </ul>
 
   <h2>Proyectos destacados:</h2>
