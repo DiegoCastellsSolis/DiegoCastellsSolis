@@ -6,9 +6,9 @@
   <h1>Hola! soy Diego Castells, Data Engineer</h1>
   <img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/DiegoCastells.png" alt="DiegoCastells">
 
-  <p>Soy estudiante de 4to año de la carrera Ingenieria en Computación en la Universidad de La Plata,vivo en La Plata,Bs As,Argentina.
-     Me interesan seguir capacitandome en las distintas disciplinas de datos.
-    Actualmente posee conocimiento de analisis de datos,procesos ETL,modelado dimensional,bases de datos,expresiones regulares,entornos Cloud,y algotimos de Machine Learning </p>
+  <p>Soy estudiante de 4to año de la carrera Ingenieria en Computación en la Universidad de La Plata,vivo en La Plata,Bs As,Argentina. </p>
+  <p>Me interesan seguir capacitandome en las distintas disciplinas de datos. </p>
+  <p>Actualmente posee conocimiento de analisis de datos,procesos ETL,modelado dimensional,bases de datos,expresiones regulares,entornos Cloud,y algotimos de Machine Learning </p>
 
   <h2>Skills:</h2>
     <p>Lenguajes</p>     
