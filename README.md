@@ -3,10 +3,12 @@
   
 <body>
 
-  <h1>Hi! I am Diego Castells, Data Engineer</h1>
-  <img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/DiegoCastells.png" alt="Imagen de banner">
+  <h1>Hola! soy Diego Castells, Data Engineer</h1>
+  <img src="https://github.com/DiegoCastellsSolis/PERSONAL/blob/main/DiegoCastells.png" alt="DiegoCastells">
 
-  <p>Soy un BLA BLA.</p>
+  <p>Soy estudiante de 4to año de la carrera Ingenieria en Computación en la Universidad de La Plata,vivo en La Plata,Bs As,Argentina.
+     Me interesan seguir capacitandome en las distintas disciplinas de datos.
+    Actualmente posee conocimiento de analisis de datos,procesos ETL,modelado dimensional,bases de datos,expresiones regulares,entornos Cloud,y algotimos de Machine Learning </p>
 
   <h2>Skills:</h2>
     <p>Lenguajes</p>     
@@ -60,10 +62,14 @@
   <h2>Experiencia Laboral:</h2>
   <ul>
     <h3><a href="http://canid.io">Data Analyst at Canid</a></h3>      
-    <li> BALBA .</li>
+    <li> 
+        Contribui en el área de Analitycs & Reporting,adicionalmente utilize modelos de Machine Learning en datos escasos, teniendo contacto con tecnologías como Metabase,PostgreSQL y Python     
+    </li>
     <h3><a href="https://www.bigbox.com.ar/">Data Engineer at CoreBI for BigBox</a></h3>   
-    <li>BLAto.</li>
-    <li>Visuanto.</li>
+    <li>Actualmente me encuentro Realizando tareas de ETL y automatización de tareas en entorno Cloud en GCP utilizando Cloud Functions, DataFusion,Cloud Scheduler, PostgreSQL,BigQuery y PythonActualmente me encuentro Realizando tareas de ETL y automatización de tareas en entorno Cloud en GCP utilizando Cloud Functions, DataFusion,Cloud Scheduler, PostgreSQL,BigQuery y Python.
+    <h3><a href="https://github.com/DiegoCastellsSolis">ETL Developer Freelancer</a></h3>   
+    </li>
+    <li>Transforme datos historicos de una bioquimica almacenados en formato PDF a formatos estructurados, teniendo contacto con manejo de expresiones regulares,Python y SSIS.</li>
   </ul>
 
   <h2>Proyectos destacados:</h2>
