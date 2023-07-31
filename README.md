@@ -75,8 +75,7 @@
   <h2>Proyectos destacados:</h2>
   <ul>
     <li>Análisis de Datos del Comportamiento del Cliente: Desarrollé un sistema de ETL para procesar datos de transacciones de clientes y utilizarlo en la generación de informes para mejorar la experiencia del cliente.</li>
-    <li>Optimización del Proceso de Extracción de Datos: Implementé un flujo de trabajo utilizando Apache NiFi para acelerar la extracción de datos desde diversas fuentes, reduciendo significativamente el tiempo de procesamiento.</li>
-    <li>Visualización Interactiva de Datos: Creé un panel interactivo en Tableau que permitió a los equipos de negocio explorar datos de ventas y patrones de compra para identificar oportunidades de crecimiento.</li>
+    <li>Visualización Interactiva de Datos: Creé un panel interactivo en Power BI que permitió a los equipos de negocio explorar datos de ventas y patrones de compra para identificar oportunidades de crecimiento.</li>
   </ul>
   <h2>Contacto:</h2>
   <ul>
