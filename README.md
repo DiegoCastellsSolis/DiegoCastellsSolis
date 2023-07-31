@@ -76,7 +76,7 @@
   <h2>Contacto:</h2>
   <ul>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/diego-castells-9a2783201/">https://www.linkedin.com/in/diego-castells-9a2783201/</a></li>
-    <li><strong>Email:</strong>diegoosolis99@gmail.com</li> 
+    <li><strong>Email:</strong> diegoosolis99@gmail.com</li> 
     <li><strong>Phone:</strong> +54 2241505239</li>
   </ul>
   <p>¡Gracias por visitar mi perfil! Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme.</p>
