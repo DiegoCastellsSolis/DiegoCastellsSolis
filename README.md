@@ -80,7 +80,7 @@
     <li>Web Scraping a Inmobiliaria: Capture datos de una inmobiliaria que no disponiblizaba su informacion atravez de API's para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
     <li>ETL mediante API Mercado Libre: Capture datos de una automoviles disponiblizados atravez de API de MELI para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
   </ul>
-  <h2>Aclaraciones Proyectos y GitHub:</h2>
+  <h2>Aclaraciones sobre Proyectos y GitHub personal:</h2>
   <ul>
     <li> 
         Al poseer experiencia temprana Full-Time en Data y en paralelo llevar mis estudios en Ingenieria mi portafolio  en data no se encutra actualizado o completo,y no he podido resolver y documentar a nivel de detalle satisfactorio para mi criterio 
