@@ -74,8 +74,9 @@
 
   <h2>Proyectos destacados:</h2>
   <ul>
-    <li>Análisis de Datos del Comportamiento del Cliente: Desarrollé un sistema de ETL para procesar datos de transacciones de clientes y utilizarlo en la generación de informes para mejorar la experiencia del cliente.</li>
-    <li>Visualización Interactiva de Datos: Creé un panel interactivo en Power BI que permitió a los equipos de negocio explorar datos de ventas y patrones de compra para identificar oportunidades de crecimiento.</li>
+    <li>ETL y Análisis de Datos de CVs para busqueda de candidatos: Desarrollé un sistema de ETL para procesar datos de Curriculums almacenados en PDF y finalmente normalizarlos para utilizarlo en el analisis de los candidatos.</li>
+    <li>Web Scraping a Inmobiliaria: Capture datos de una inmobiliaria que no disponiblizaba su informacion atravez de API's para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
+    <li>ETL mediante API Mercado Libre: Capture datos de una automoviles disponiblizados atravez de API de MELI para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
   </ul>
   <h2>Contacto:</h2>
   <ul>
