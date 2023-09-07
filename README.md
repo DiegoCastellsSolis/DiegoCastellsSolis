@@ -10,7 +10,7 @@
   <p>Me interesan seguir capacitandome en las distintas disciplinas de datos. </p>
   <p>Actualmente posee conocimiento de analisis de datos,procesos ETL,modelado dimensional,bases de datos,expresiones regulares,entornos Cloud,y algotimos de Machine Learning </p>
 
-  <h2>Skills:</h2>
+  <h2>Skills</h2>
     <p>Lenguajes</p>     
         <ul>  
             <li>
@@ -75,7 +75,7 @@
     </li>
   </ul>
 
-  <h2>Proyectos:</h2>
+  <h2>Proyectos</h2>
   <ul>
     <li>ETL y Análisis de Datos de CVs para busqueda de candidatos: Desarrollé un sistema de ETL para procesar datos de Curriculums almacenados en PDF y finalmente normalizarlos para utilizarlo en el analisis de los candidatos.</li>
     <li>Web Scraping a Inmobiliaria: Capture datos de una inmobiliaria que no disponiblizaba su informacion atravez de API's para su posterior limpieza y estandarizacion,para finalmente ser utilizada en modelos de Machine Learning.</li>
@@ -87,7 +87,7 @@
         Al poseer experiencia temprana Full-Time en Data y en paralelo llevar mis estudios en Ingenieria mi portafolio  en data no se encutra actualizado o completo,y no he podido resolver y documentar a nivel de detalle satisfactorio para mi criterio 
     </li>
   </ul>
-  <h2>Contacto:</h2>
+  <h2>Contacto</h2>
   <ul>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/diego-castells-9a2783201/">https://www.linkedin.com/in/diego-castells-9a2783201/</a></li>
     <li><strong>Email:</strong> diegoosolis99@gmail.com</li> 
